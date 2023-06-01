@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1052543162559",
+    "firebase_url": "https://buynothing-c2fc5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buynothing-c2fc5",
+    "storage_bucket": "buynothing-c2fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052543162559:android:936b9865aa79e7cae08e0a",
+        "android_client_info": {
+          "package_name": "com.baseprojectsrl.baseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Q0GhcvdCOy0J4rbtcI4JAHJCLGuMSP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052543162559:android:74e661dddfbfe871e08e0a",
+        "android_client_info": {
+          "package_name": "com.baseprojectsrl.baseproject.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Q0GhcvdCOy0J4rbtcI4JAHJCLGuMSP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

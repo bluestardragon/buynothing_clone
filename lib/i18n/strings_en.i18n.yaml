@@ -1,0 +1,184 @@
+generic:
+  next: Next
+  access: Access
+  notificationDefaultChannel: Incoming notifications
+  notificationDescriptionDefaultChannel: App updates ##
+  genericError: Unexpected error
+  genericError1: At the moment it is not possible to change the email!
+  logout: Logout
+  continueTxt: Continue
+  skip: Skip
+  login: Login
+  signup: Signup
+  cancel: Cancel
+  username: Username
+  email: Email
+  password: Password
+  confirmEmail: Confirm email
+  confirmPassword: Confirm password
+  name: Name
+  surname: Surname
+  backToLogin: Back to Login
+  save: Save
+  deleteAddressDialogDescription: The address will be deleted forever.\nClick Continue to delete.
+  deletePaymentMethodDialogDescription: The payment method will be deleted forever.\nClick Continue to delete.
+  areYourSure: Are you sure?
+  profile: Profile
+  home: Home
+  updates: Updates
+  pwdResetSuccess: Password changed successfully
+  pwdUpdateFailed1: Password change Failed. Current Password is wrong.Please check again.
+
+#**************************************
+#************ TextFields **************
+#**************************************
+
+textFieldValidations:
+  textFormFieldEmpty: This field cannot be empty
+  maxLenght: The maximum length is ## characters
+  wrongCharacters: Invalid characters.
+  weakPassword: Password too weak
+  emailAlreadyInUse: This email is already in use
+  invalidEmail: Invalid email
+  emptySpace: You have entered a blank space in the email
+  passwordsDontMatch: Passwords do not match
+  emailsDontMatch: Emails do not match
+
+#**************************************
+
+textFormFieldHints:
+  confirmNewPassword: Confirm Password
+  password: \*******
+  insertNewPassword: New Password
+  insertOldPassword: Old Password
+  email: buynothingapp@gmail.com
+  name: Name
+  surname: Surname
+  editPassword: Edit password
+  listingTitle: Title
+  listingDesc: Description
+
+#*************************************
+#*********** Intro Page***************
+#*************************************
+
+tutorial:
+  tutorialFirstMessageTitle: Siamo una startup specializzata\nin sviluppo mobile
+  tutorialFirstMessageDescription: nata dall'incontro di Emanuel\nTesoriello e Martijn Duin
+
+  tutorialSecondMessageTitle: La nostra crew opera da tutto il\nmondo!
+  tutorialSecondMessageDescription: composta dai migliori sviluppatori di\ntutta Europa e sostenitrice del\nnomadismo digitale
+
+  tutorialThirdMessageTitle: Lo sviluppo Flutter è il nostro\npunto di forza
+  tutorialThirdMessageDescription: ma abbiamo assi nelle maniche che ci\npermettono di eccellere negli sviluppi\nreact, backend, IoT e molto altro...
+
+#*************************************
+#********** Profile Page**************
+#*************************************
+
+profilePage:
+  editPersonalData: Modify personal data
+  settings: Settings
+  privacyPolicy: Privacy Policy
+  changeProfileImage: Change profile picture
+  username: Username
+  editPassword: Change Password
+  name: Name
+  surname: Surname
+  email: Email
+  city: City
+  genre: Genere
+  darkTheme: Alternative theme
+  darkThemeDescription: Try the app with a different color now!
+  accessibility: Accessibility
+  accessibilityDescription: Lorem ipsum dolor sic amet
+  aboutMe: About me
+  phoneNumber: Phone Number
+  nameAndSurname: Name and Surname
+  resetPassword: Reset password
+  changePersonalInfos: Change persoanl data
+
+#*************************************
+#*********** Signup Page**************
+#*************************************
+
+signupPage:
+  signupCompleted: Registration completed!
+  signup: Signup
+  acceptTermsAndConditions: I accept the terms and conditions of the service
+  privacyPolicy1: I have read your privacy policy. 13 of the GDPR. I understood the purposes referred to in point 2.A and the legal bases for which the processing is necessary and legitimate, even without the consent of the data indicated as mandatory. With reference to the processing of my personal data, for which consent is required as explained in the methods and purposes indicated
+  privacyPolicy2B0: I consent to the processing of other particular data necessary for the services requested
+  privacyPolicy2B1: Data processing to improve services
+  privacyPolicy2B2: Marketing and/or commercial
+  privacyPolicy2B3: Semi-automated profiling - aimed at sending nutrition advice and/or specific promotional offers relevant to the diet goals of registered data subjects
+  checkEmail: Check your email!
+  sentToEmail: "We have sent an email with a confirmation link\n to this email:"
+  checkSpam: If you don't receive it within 5 minutes,\nplease check your spam.
+  notReceived: Didn't receive the email?
+  sendAgain: Resubmit
+  gdpr: Manifestation of data processing consent - Privacy - (GDPR 679/2016)
+  acceptPrivacy: To continue accept our Terms and Conditions and our Privacy Policy
+  privacyTitle: Privacy and personal data
+
+#*************************************
+#************* Login Page*************
+#*************************************
+
+loginPage:
+  title: Login
+  loginPageDescription: Lorem ipsum dolor sic amet
+  forgotPassword: Forgot password?
+  recoverPassword: Recover password
+  insertEmailToRecoverPwd: Enter the email for which you want to recover the password.
+  recover: Recover
+  newUser: New user?
+  noUserFoundForThisEmail: No users with this email were found
+  wrongPasswordForThisUser: The password entered is incorrect
+  notVerifiedEmail: Unverified email for this user
+  tooManyAccessTempt: Warning, you have made too many login attempts. Please try again later.
+  errorInSendingNewPassword: There was an error sending your new password
+  messageInSendingNewPassword: We have sent a password recovery email
+  noUserFoundForRecoverPassword: No users found for the entered email
+  email: Email
+  password: Password
+  dontHaveAnAccount: Do not have an account?
+  signupHere: Register here
+  orAccessWith: Or log in with
+
+#*************************************
+#************* Access Page************
+#*************************************
+
+accessPage:
+  doYouAlreadyHaveAnAccount: Do you already have an account?
+  access: Log in
+  title: Register and reach your \ngoals with us!
+  description: Your personal crew at the cost of an\employee, to support your \nproject!
+
+#*************************************
+#********** Home Page       **********
+#*************************************
+
+homePage:
+  welcome: Welcome
+  title: This is the\nGeniusArchitecture boilerplate!
+  subtitle: "This is what you have available:"
+
+#*************************************
+#********* Updates *****************
+#*************************************
+
+updatesPage:
+  title: Here are all the latest posts by GeniusCrew
+  addLbl: Add Listing
+
+#*************************************
+#********* Post Detail ***************
+#*************************************
+
+postDetailPage:
+  title: Update
+  postedOn: Posted on
+
+postCard:
+  postedOn: Posted on
