@@ -1,7 +1,3 @@
-<p align="center"><img src="https://654448.smushcdn.com/2460692/wp-content/uploads/2021/05/Logo_Official_Tekengebied-1-kopie-14.png?lossy=1&strip=1&webp=1" width="100" height="100"></p>  
-
-# GeniusArchitecture
-
 This is a boilerplate project created in flutter using Provider, Firebase, Dio, and some fundamentals of Robert C Martin's Clean Architecture.
 
 ## Getting Started
